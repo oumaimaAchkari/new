@@ -95,6 +95,7 @@ export default function New(props: INewProps) {
   const hadnleCallBackNew = () => { setisModalOpen(!isModalOpen); };
   const hadnleCallBackupload = () => setisUploadModalOpen(!isUploadModalOpen);
   //Command Bar Items
+  //comment
   const _items: ICommandBarItemProps[] = [
     {
       //BUTTON TO FIRE NEW POP UP
