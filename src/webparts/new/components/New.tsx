@@ -70,6 +70,7 @@ const iconButtonStyles: Partial<IButtonStyles> = {
   },
 };
 //@ts-ignore
+//this is a comment
 import { Image, IImageProps, ImageFit } from "@fluentui/react/lib/Image";
 
 // These props are defined up here so they can easily be applied to multiple Images.
